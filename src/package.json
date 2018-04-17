@@ -1,0 +1,19 @@
+{
+  "name": "hmmmmwhatocallit",
+  "version": "1.0.4",
+  "description": "hmmm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktabert/hmmmmwhatocallit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ktabert/hmmmmwhatocallit/issues"
+  },
+  "homepage": "https://github.com/ktabert/hmmmmwhatocallit#readme"
+}
